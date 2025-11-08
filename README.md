@@ -59,7 +59,7 @@ Each decision in the cleaning process was based on data characteristics and best
 ## Files in Repository
 | File | Description |
 |------|--------------|
-| `Fiore Aurora Oei Assignment 1.ipynb` | Main Jupyter Notebook containing full analysis |
+| `data-cleaning-health-insurance` | Main Jupyter Notebook containing full analysis |
 | `health_insurance_claims.csv` | Original dataset used in the project |
 | `.gitignore` | List of files/folders ignored in version control |
 | `README.md` | Project documentation (this file) |
